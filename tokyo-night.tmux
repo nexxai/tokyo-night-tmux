@@ -14,7 +14,7 @@ tmux set -g status-left-length 80
 tmux set -g status-right-length 150
 
 # Highlight colors
-tmux set -g mode-style "bg=#a9b1d6,fg=#2A2F41"
+tmux set -g mode-style "bg=#959dcb,fg=#292d3e"
 
 tmux set -g message-style "bg=#7aa2f7,fg=#2A2F41"
 tmux set -g message-command-style "fg=#c0caf5,bg=#2A2F41"
